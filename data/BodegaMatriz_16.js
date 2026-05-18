@@ -1,1 +1,0 @@
-var json_BodegaMatriz_16 = {"type":"FeatureCollection","name":"BodegaMatriz_16","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null,"Ubicación":null},"geometry":{"type":"Point","coordinates":[-78.489758921866937,-0.10747527100367]}}]}
